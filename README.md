@@ -54,7 +54,6 @@ The video feed is captured in real-time from the webcam, mirrored horizontally, 
 ## License
 
 This project is licensed under the MIT License.
-```
 
 ## Contributing
 
